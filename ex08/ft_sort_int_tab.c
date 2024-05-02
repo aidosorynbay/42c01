@@ -24,7 +24,6 @@ void	swap(int *a, int *b)
 void	ft_sort_int_tab(int *tab, int size)
 {
 	int	i;
-	int	j;
 
 	while (i < size - 1)
 	{
