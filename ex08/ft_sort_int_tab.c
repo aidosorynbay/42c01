@@ -42,3 +42,7 @@ void	ft_sort_int_tab(int *tab, int size)
 // 	int n_array[] = {0, 3, 5, 1, 2, 4};
 // 	ft_sort_int_tab(n_array, 6);
 // }
+	// for (i = 0; i < size; i++)
+	// {
+	// 	printf("%d ", tab[i]);
+	// }
